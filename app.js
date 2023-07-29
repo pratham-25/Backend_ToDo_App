@@ -1,5 +1,4 @@
 import express from "express";
-import mongoose from "mongoose";
 import userRouter from "../API and Params/routes/user.js";
 import { config } from "dotenv";
 
